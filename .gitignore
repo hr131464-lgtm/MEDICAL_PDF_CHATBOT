@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+env/
+.conda/
+
+# Data files (user uploads)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter (if used later)
+.ipynb_checkpoints/
